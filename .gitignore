@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# nlp100
+analogy-family-w2v.txt
+combined.csv
+corpus.txt
+enwiki-20150112-400-r10-105752.txt
+questions-family.txt
+questions-words.txt
+tokens.txt
+vectors
+vectors.*
+wordsim-353-w2v.txt

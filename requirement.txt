@@ -1,0 +1,2 @@
+gensim==0.13.2
+pycountry==1.20
